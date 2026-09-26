@@ -1,5 +1,4 @@
-def add(a,b):
-    a=int(input("Enter the amount a: "))
-    b=int(input("Enter the amount b: "))
-    c=a+b
-    print(c)
+a=input()
+b=input()
+c=a*b
+print(c)
