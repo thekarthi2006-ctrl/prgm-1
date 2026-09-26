@@ -2,4 +2,4 @@ def add(a,b):
     a=int(input("Enter the amount a: "))
     b=int(input("Enter the amount b: "))
     c=a+b
-    print("A and B Addtion ",c)
+    print(c)
